@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+marker-parsed/
+keyword_frequency_histograms/
+chroma_db/
+section_embeddings/
+title_embeddings/
