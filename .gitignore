@@ -14,3 +14,11 @@ keyword_frequency_histograms/
 chroma_db/
 section_embeddings/
 title_embeddings/
+search_results/
+linked_documents/
+data-extraction-experiments/
+
+# secrets
+.env
+
+deet.log

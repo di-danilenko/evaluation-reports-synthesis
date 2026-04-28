@@ -1,0 +1,6 @@
+project:
+  created_at: '2026-04-28T09:34:45.908061Z'
+  gold_standard_data_format: generic_csv
+  gold_standard_data_path: /home/lt1412/Desktop/evaluation-reports-synthesis/data/development_labelled_data.csv
+  name: sdg13-classifier
+  pdf_dir: /home/lt1412/Desktop/UNEG-repository/SDG-synthesis-coalition-tidy
