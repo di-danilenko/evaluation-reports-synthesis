@@ -1,2 +1,2 @@
 prompt,output_data_type,attribute_id,attribute_label
-Is the project contributing to SDG13 - Climate Action?,bool,1,sdg13
+Is the paper about a project contributing to SDG13 Climate Action,bool,1,sdg13
