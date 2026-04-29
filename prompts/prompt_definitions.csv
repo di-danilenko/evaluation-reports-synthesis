@@ -1,6 +1,2 @@
 prompt,output_data_type,attribute_id,attribute_label
-,integer,0,
-,integer,1,unnamed: 0
-,integer,2,item id
-Is the project contributing to SDG13 - Climate Action?,bool,3,sdg13
-,string,4,sdg13 - notes
+Is the project contributing to SDG13 - Climate Action?,bool,1,sdg13
